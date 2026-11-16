@@ -1,4 +1,4 @@
-## Profile
+## About Me
 
 The only reason I got into coding is because I like playing video games. That’s it. Don’t expect too much from me. I’m not a professional coder/programmer.
 <!--
