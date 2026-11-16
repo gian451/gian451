@@ -1,5 +1,6 @@
-## Hi there 👋
+## Profile
 
+The only reason I got into coding is because I like playing video games. That’s it. Don’t expect too much from me. I’m not a professional coder/programmer.
 <!--
 **gian451/gian451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
